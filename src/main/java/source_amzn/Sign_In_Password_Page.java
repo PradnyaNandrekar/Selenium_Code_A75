@@ -15,7 +15,7 @@ public class Sign_In_Password_Page
 	
 	public void Enter_Password()
 	{
-		Password_Elmnt.sendKeys("Pratik*999");
+		Password_Elmnt.sendKeys("Pradnya");
 	}
 	public void SignIn_Submit()
 	{
